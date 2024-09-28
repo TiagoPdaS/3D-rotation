@@ -14,7 +14,7 @@ This project showcases a rotation animation of soda cans with a background trans
 
 - Rotation and image transition animation without JavaScript.
 - Background color change as the soda can image moves upward.
-- Responsive design for different screen sizes.
+
 
 ## Project Structure
 
